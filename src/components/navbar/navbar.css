@@ -49,7 +49,7 @@
 .gpt3__navbar-menu_container button {
     padding: 0.5rem 1rem;
     color: #fff;
-    background: #ff4820;
+    background: var(--button-orange);
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
